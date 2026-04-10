@@ -1,0 +1,13 @@
+com\booklabs\model\Book$BookBuilder.class
+com\booklabs\controller\BookController.class
+com\booklabs\service\BookService.class
+com\booklabs\service\impl\AuthorServiceImpl.class
+com\booklabs\SpringBookLabsApplication.class
+com\booklabs\model\Author.class
+com\booklabs\repository\AuthorRepository.class
+com\booklabs\controller\AuthorController.class
+com\booklabs\repository\BookRepository.class
+com\booklabs\service\AuthorService.class
+com\booklabs\model\Book.class
+com\booklabs\service\impl\BookServiceImpl.class
+com\booklabs\model\Author$AuthorBuilder.class
